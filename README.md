@@ -5,8 +5,8 @@ Labs are entirely built on virtual machines running on [VMWare Workstation Pro](
 ## Virtual Machines
 
 | System | Description |
-|---|---|
-| Kali Purple | Tool suite for pentesting |
+|---|---|---|
+|![Kali Purple](images/kali-purple-icon1.png)|| Kali Purple | Tool suite for pentesting |
 
 
 ## Pentesting Tools
