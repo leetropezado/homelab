@@ -1,15 +1,13 @@
 ## Overview
 
-Labs are entirely built on virtual machines running on [VMWare Workstation Pro](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion).
+Labs are entirely built on virtual machines running on [VMware Workstation Pro](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion).
 
 ## Virtual Machines
 
-| System | Description |
-|---|---|---|
-|![Kali Purple](images/kali-purple-icon1.png)| Kali Purple | Tool suite for pentesting |
-
+| Icon | System | Description |
+|:---:|---|---|
+| <img src="images/kali-purple-icon1.png" alt="Kali Purple" width="40"> | Kali Purple | Tool suite for pentesting |
 
 ## Pentesting Tools
 
 - nmap
-
